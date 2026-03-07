@@ -8,4 +8,4 @@ description: My Project updates!
 
 # Build Options
 markdown: kramdown
-theme: minima
+theme: hydejack
