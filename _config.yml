@@ -6,4 +6,5 @@ twitter: drivenbymetal
 description: My Project updates!
 
 # Build Options
+markdown: kramdown
 theme: jekyll-theme-cayman
