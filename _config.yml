@@ -20,3 +20,7 @@ minima:
   #     * solarized          Adaptive skin for solarized color scheme skins.
   skin: dark
 
+  nav_pages:
+    - about.md
+    - [![Open in GitHub Cdespaces](https://github.com/codespaces/badge.svg) ](https://codespaces.new/thrashing-maniac/fluffy-octo-fortnight)
+
