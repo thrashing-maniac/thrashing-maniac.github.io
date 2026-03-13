@@ -8,6 +8,4 @@ description: My Project updates!
 
 # Build Options
 markdown: kramdown
-theme: minima
-minima:
-  skin: dark
+theme: jekyll-theme-cayman
