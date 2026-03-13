@@ -8,6 +8,7 @@ description: My Project updates!
 
 # Build Options
 markdown: kramdown
+theme: minima
 minima:
   # Minima skin selection. Available skins are:
   #   Available skins:
@@ -17,5 +18,5 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: dark
+  skin: solarized-dark
 
