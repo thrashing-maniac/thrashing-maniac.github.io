@@ -25,8 +25,8 @@ I now run a UniFi stack in a 15u rack and a converted old PC in a 2U chasis with
 ### 🏃🏻 Marathoner
 I started running in 2018 when a co-worker suggested that we do something active since we sit around all day in front of computers at work. My first run was 3.6 miles and took about 51 minutes to finish... about a 14 minute/mile pace. 
 My co-workers would always joke around and ask when was I going to run a marathon. I always replied with **"NEVER!"** A few years later and Maury Povich told me the lie detecter determined that was a lie.
-| City | Year | Time|
 
+| City | Year | Time|
 | :---- | ---- | ---- |
 | Pittsburgh | 2021 | 3:38:59 |
 | Pittsburgh | 2022 | 3:37:37 |
