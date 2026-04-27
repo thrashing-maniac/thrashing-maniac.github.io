@@ -26,7 +26,7 @@ I now run a UniFi stack in a 15u rack and a converted old PC in a 2U chasis with
 ### 💡 WLED 
 What is [WLED](https://github.com/wled/WLED)? A fast and feature-rich implementation of a webserver to control NeoPixel LEDs.
 
-I have implementd a couple small projects utilizing 2 seperate devices. 
+I have implemented a couple small projects utilizing 2 seperate devices. 
 - 1st was a simple outline around a shelving unit where my homelab rack sits
 - 2nd were a couple retrofitted IKEA VIDJA floor lamps
 
